@@ -12,3 +12,14 @@ This project demonstrates hands-on experience deploying and using Splunk Enterpr
 - Built dashboards for continuous monitoring
 - Configured alerts to detect potential Indicators of Compromise (IOCs)
 - Aligned monitoring activities with the NIST Cybersecurity Framewor
+
+---
+## Tools & Technologies
+
+- Splunk Enterprise & Universal Forwarder
+
+- Windows Server / Windows Clients
+
+- Windows Defender Firewall
+
+- Virtualized Lab Environment
